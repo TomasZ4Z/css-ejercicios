@@ -1,0 +1,15 @@
+.impares{
+    background-color: rgb(180, 70, 144);
+    font-family: verdana,"DejaVu Sans",Sans-serif;
+}
+#segundo-elemento{color: rgb(6, 6, 134);
+    font-size: 36px;
+}
+.tercer-elemento{
+font-size: 24px;    
+}
+#cuarto-elemento{
+    background-color: rgb(19, 233, 19);
+    font-size: 24px;
+    font-weight: 700;
+}
